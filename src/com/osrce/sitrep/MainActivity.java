@@ -1,7 +1,6 @@
-package com.osrce.sitrep_android;
+package com.osrce.sitrep;
 
 import android.os.Bundle;
-import android.app.Activity;
 import android.view.Menu;
 import org.apache.cordova.*;
 
